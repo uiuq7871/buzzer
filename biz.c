@@ -108,5 +108,5 @@ static void __exit buzzer_exit(void) {
 module_init(buzzer_init);
 module_exit(buzzer_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Ting");
 MODULE_DESCRIPTION("Buzzer driver");
